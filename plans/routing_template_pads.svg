@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 300.00001 299.99999"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="routing_template_pads.svg"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="0.71702083"
+     inkscape:cx="608.07159"
+     inkscape:cy="562.74516"
+     inkscape:window-width="1850"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2">
+    <sodipodi:guide
+       position="20,280"
+       orientation="0,1"
+       id="guide9"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="20,280"
+       orientation="-1,0"
+       id="guide10"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="20,20"
+       orientation="0,1"
+       id="guide11"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="280,20"
+       orientation="-1,0"
+       id="guide12"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Panel"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.538152;stroke-opacity:1"
+       id="rect1"
+       width="299.46185"
+       height="299.46185"
+       x="0.26907599"
+       y="0.26907599" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Mounting holes"
+     inkscape:highlight-color="#2721f3"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       id="g6">
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.168939"
+         id="path1"
+         cx="20"
+         cy="20"
+         rx="1.9155306"
+         ry="1.9155303" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use1"
+         transform="translate(260)"
+         inkscape:label="use1" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use5"
+         transform="translate(0,260)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use6"
+         transform="translate(260,260)" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Sensors"
+     transform="translate(-37.3735,-37.373254)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.262597;stroke-opacity:1"
+       id="rect2"
+       width="34.737217"
+       height="34.737213"
+       x="134.48027"
+       y="-17.36961"
+       ry="4.9999728"
+       rx="4.9999728"
+       transform="matrix(0.70710292,0.70711064,-0.70710292,0.70711064,0,0)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2"
+       id="use2"
+       transform="translate(160.00001)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2"
+       id="use3"
+       transform="translate(160,160.00001)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2"
+       id="use4"
+       transform="translate(4.9471525e-6,160.00001)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Lights">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.311848"
+       id="rect6"
+       width="219.68814"
+       height="16.188152"
+       x="40.155922"
+       y="11.905924"
+       rx="4.9929123"
+       ry="4.8440757" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect6"
+       id="use7"
+       transform="translate(7.6293945e-6,260)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect6"
+       id="use8"
+       transform="rotate(90,19.999999,20.000001)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect6"
+       id="use9"
+       transform="rotate(90,150,150)" />
+  </g>
+</svg>
